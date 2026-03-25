@@ -34,3 +34,27 @@ resume-ranker/
     ├── preprocess.py
     ├── ranker.py
 ```
+### UI
+
+<img width="2560" height="1504" alt="image" src="https://github.com/user-attachments/assets/ae002bba-9631-484c-aefc-9a9e96eb3e67" />
+<img width="2560" height="1504" alt="image" src="https://github.com/user-attachments/assets/6d82b173-db82-44a7-96f4-6f1d68f0840a" />
+
+### 🚀 Installation & Setup
+
+1️⃣ Clone the Repository
+```
+git clone https://github.com/your-username/AI-Powered-Resume-Ranker.git
+cd AI-Powered-Resume-Ranker
+```
+2️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+```
+3️⃣ Run the Application
+```
+python app.py
+```
+4️⃣ Open in Browser
+```
+http://localhost:5000
+```
