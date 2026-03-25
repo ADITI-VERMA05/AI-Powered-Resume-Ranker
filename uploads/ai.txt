@@ -1,0 +1,36 @@
+Job Title: Data Scientist
+
+We are seeking a highly motivated and analytical Data Scientist to join our team. The ideal candidate will have strong expertise in data analysis, machine learning, and statistical modeling to derive insights from complex datasets.
+
+Key Responsibilities:
+- Analyze large datasets to extract meaningful insights
+- Build and deploy machine learning models
+- Perform data cleaning, preprocessing, and feature engineering
+- Visualize data using charts and dashboards
+- Work with cross-functional teams to solve business problems
+- Communicate findings to stakeholders
+
+Required Skills:
+- Strong knowledge of Python
+- Experience with libraries such as NumPy, Pandas, Scikit-learn
+- Understanding of Machine Learning algorithms
+- Knowledge of statistics and probability
+- Experience with data visualization tools (Matplotlib, Seaborn)
+- Knowledge of SQL and database querying
+
+Preferred Skills:
+- Experience with Deep Learning (TensorFlow, PyTorch)
+- Knowledge of Natural Language Processing (NLP)
+- Familiarity with Big Data tools (Spark, Hadoop)
+- Experience with cloud platforms (AWS, GCP)
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science, Data Science, or related field
+
+Experience:
+- 0–2 years (Freshers can apply)
+
+Location:
+- Remote / Hybrid
+
+We are looking for candidates who are passionate about data and eager to build intelligent solutions using data-driven approaches.

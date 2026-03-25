@@ -1,0 +1,36 @@
+Job Title: Software Developer (Python / Full Stack)
+
+We are looking for a skilled and motivated Software Developer to join our team. The ideal candidate should have strong problem-solving skills and experience in developing scalable web applications.
+
+Key Responsibilities:
+- Develop, test, and maintain web applications
+- Write clean, efficient, and well-documented code
+- Collaborate with cross-functional teams
+- Debug and optimize application performance
+- Participate in code reviews
+
+Required Skills:
+- Strong knowledge of Python
+- Experience with Flask or Django
+- Understanding of Data Structures and Algorithms
+- Knowledge of SQL and database management
+- Familiarity with REST APIs
+- Experience with Git and version control
+
+Preferred Skills:
+- Knowledge of Machine Learning or NLP
+- Experience with JavaScript, HTML, CSS
+- Familiarity with cloud platforms (AWS/GCP)
+- Experience with Docker or CI/CD pipelines
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- Strong analytical and problem-solving skills
+
+Experience:
+- 0–2 years (Freshers can apply)
+
+Location:
+- Remote / Hybrid
+
+We are looking for passionate candidates who are eager to learn and grow in a dynamic environment.
